@@ -8,6 +8,12 @@ A Windows app that keeps your film and series archive in order, including the pa
 
 [**Download the latest version**](https://github.com/fatiherdem404-ctrl/cinevault-releases/releases/latest) · [Website and screenshots](https://cinevault-66n.pages.dev)
 
+![The shelf view](https://cinevault-66n.pages.dev/img/en/hero.webp)
+
+| | |
+|---|---|
+| ![Dashboard](https://cinevault-66n.pages.dev/img/en/dashboard.webp) | ![Film page](https://cinevault-66n.pages.dev/img/en/detail.webp) |
+
 ## What it does
 
 - Scans your folders and builds a library of films and series from the file names
@@ -50,6 +56,12 @@ Film ve dizi arşivini düzenli tutan bir Windows uygulaması. Harici disklerdek
 > **Beta.** CineVault herkese açık beta aşamasında. Eksikler olabilir; bulduğun sorunları bildirirsen sevinirim.
 
 [**Son sürümü indir**](https://github.com/fatiherdem404-ctrl/cinevault-releases/releases/latest) · [Web sitesi ve ekran görüntüleri](https://cinevault-66n.pages.dev)
+
+![Raf görünümü](https://cinevault-66n.pages.dev/img/tr/hero.webp)
+
+| | |
+|---|---|
+| ![Panel](https://cinevault-66n.pages.dev/img/tr/dashboard.webp) | ![Film sayfası](https://cinevault-66n.pages.dev/img/tr/detail.webp) |
 
 ### Neler yapar
 
